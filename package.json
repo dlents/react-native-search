@@ -9,7 +9,7 @@
     "react-native",
     "ios"
   ],
-  "dependencies": {
+  "peerDependencies": {
     "react-native": "^0"
   },
   "repository": {
